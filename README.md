@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+[https://hulu-2-0-nextjs-liart.vercel.app/]
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
