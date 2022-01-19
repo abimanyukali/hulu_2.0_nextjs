@@ -14,7 +14,7 @@ const Headers = () => {
            <Headeritem title="SEARCH" Icon={SearchIcon}/>
            <Headeritem title="ACCOUNT" Icon={UserIcon}/>
            </div>
-           <Image src="https://press.hulu.com/wp-content/uploads/2020/02/hulu-white.png"
+           <Image src="https://press.hulu.com/wp-content/uploads/2020/02/hulu-white.png" alt="image"
            width={200}
            height={100}/>
        </header>  
